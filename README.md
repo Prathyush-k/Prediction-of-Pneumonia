@@ -3,7 +3,7 @@
 ## Introduction
 We use Convolutional Neural Network to predict if a person has Pneumonia.
 
-### Diagramatic REpresentation
+### Diagramatic Representation
 ![structure of CNN](Pneumonia_Arch.PNG)
 
 ### Simpler Representaion
